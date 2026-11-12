@@ -1,0 +1,13 @@
+# Entorno virtual y variables privadas
+venv/
+.venv/
+.env
+
+# Base de datos vectorial local
+chroma_db/
+chroma_tp4_*/
+
+# Caché de Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
